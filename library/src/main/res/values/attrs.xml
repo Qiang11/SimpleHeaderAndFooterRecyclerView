@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BaseRecyclerView">
+        <attr name="isNeedLoadMore" format="boolean"/>
+        <attr name="isNeedHeader" format="boolean"/>
+        <attr name="footResId" format="reference"/>
+        <attr name="headerResId" format="reference"/>
+        <attr name="endFootResId" format="reference"/>
+    </declare-styleable>
+    </resources>
